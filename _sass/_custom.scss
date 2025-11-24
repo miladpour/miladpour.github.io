@@ -93,17 +93,27 @@
 .profile .more-info {
   margin-bottom: 0.25rem !important;
 }
-/* Reduce gap between profile image and social icons */
+/* Kill extra space between profile image and social icons */
+
+/* 1) Remove margin **under** the figure that wraps the image */
+.profile figure {
+  margin-bottom: 0rem !important;
+}
+
+/* 2) Just in case any margin is on the image itself */
 .profile img {
-  margin-bottom: 0.1rem !important;     /* reduce space under image */
+  margin-bottom: 0rem !important;
 }
 
+/* 3) Remove margin/padding **above** the social block */
 .profile .social {
-  margin-top: 0.1rem !important;        /* reduce space above icons */
-  padding-top: 0 !important;            /* make sure no padding adds space */
+  margin-top: 0rem !important;
+  padding-top: 0rem !important;
 }
 
+/* 4) And above the icons container itself */
 .profile .contact-icons {
-  margin-top: 0 !important;
+  margin-top: 0rem !important;
+  padding-top: 0rem !important;
 }
 
