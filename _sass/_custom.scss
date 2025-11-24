@@ -93,3 +93,17 @@
 .profile .more-info {
   margin-bottom: 0.25rem !important;
 }
+/* Reduce gap between profile image and social icons */
+.profile img {
+  margin-bottom: 0.1rem !important;     /* reduce space under image */
+}
+
+.profile .social {
+  margin-top: 0.1rem !important;        /* reduce space above icons */
+  padding-top: 0 !important;            /* make sure no padding adds space */
+}
+
+.profile .contact-icons {
+  margin-top: 0 !important;
+}
+
