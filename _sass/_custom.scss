@@ -117,3 +117,14 @@
   padding-top: 0rem !important;
 }
 
+/* Keep About page text in a left column, not under the profile pic */
+.about-text {
+  max-width: 60%;      /* text column width; adjust 55–70% as you like */
+}
+
+/* On small screens, let it be full width */
+@media (max-width: 768px) {
+  .about-text {
+    max-width: 100%;
+  }
+}
