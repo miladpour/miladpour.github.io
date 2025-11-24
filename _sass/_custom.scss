@@ -36,3 +36,18 @@ a:focus {
 .progress-container {
   background-color: transparent !important;
 }
+
+/* Reduce gap between profile image and social icons */
+.profile .social {
+  margin-top: 0.25rem !important;   /* reduce the vertical gap */
+  padding-top: 0 !important;        /* remove padding if any */
+}
+
+/* Also shrink any extra margin below the image and more_info block */
+.profile img {
+  margin-bottom: 0.25rem !important;
+}
+
+.profile .more-info {
+  margin-bottom: 0.25rem !important;  
+}
