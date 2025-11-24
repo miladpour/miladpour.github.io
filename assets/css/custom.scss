@@ -1,11 +1,21 @@
 ---
 ---
-/* Reduce social icon size */
-.social-icons a {
-  font-size: 0.8rem;      /* smaller icons */
+/* Reduce icon size aggressively */
+.social i,
+.contact-icons i,
+.contact-icons a i {
+  font-size: 0.75rem !important;   /* adjust: try 0.7rem, 0.65rem, etc. */
 }
 
-/* Optional: reduce spacing between icons */
-.social-icons li {
-  margin: 0 0.25rem !important;
+/* Reduce spacing between icons */
+.social li,
+.contact-icons li {
+  margin: 0 0.2rem !important;
+  padding: 0 !important;
+}
+
+/* Optional: scale the whole block (strongest fallback) */
+.social .contact-icons {
+  transform: scale(0.8);
+  transform-origin: top left;
 }
