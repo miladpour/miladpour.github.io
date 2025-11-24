@@ -27,13 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## About Me
+### About Me
 
 I am a Ph.D. candidate in the Department of Electrical Engineering and Computer Science at the University of Michigan, fortunate to be advised by [Prof. Vladimir Dvorkin](https://web.eecs.umich.edu/~dvorkin/). I received my M.Sc. and B.Sc. degrees in Electrical Engineering from Tarbiat Modares University and Babol Noshirvani University of Technology, respectively.
 
-## Research Interests
+### Research Interests
 
 My primary research interests lie in Generative Models, Trustworthy ML, and Information Theory. I focus on developing reliable data-driven decision-making methods with rigorous guarantees on uncertainty, robustness, and privacy. Methodologically, I use ideas from diffusion models, differential privacy, conformal prediction, and sequential inference. I am particularly interested in bridging foundational theory with practical challenges in modern power and energy systems.
 
----
 Feel free to email me if you come across any research interests we may have in common. I am always open to potential collaborations.
