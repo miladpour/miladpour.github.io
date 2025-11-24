@@ -1,20 +1,26 @@
-/* Shrink social/contact icons under profile */
-/* Override al-folio global colors */
+/* Global theme color overrides */
 :root {
-  --global-theme-color: #00274C;      /* main accent color */
-  --link-color: #00274C;              /* normal link color */
-  --link-hover-color: #00274C;        /* hover color */
+  --global-theme-color: #00274C;
+  --link-color: #00274C;
+  --link-hover-color: #001A33;
 }
 
+/* Shrink social/contact icons */
 .contact-icons i {
-  font-size: 0.95rem !important;   /* try 0.75rem or 0.7rem if you want smaller */
+  font-size: 0.95rem !important;
 }
 
-/* Optional: reduce space between icons a bit */
 .contact-icons a {
   margin: 0 0.2rem !important;
 }
-/* Change global pink accent color */
-:root {
-  --global-theme-color: #00274C;   /* <-- pick your color */
+
+/* Force link colors (beats all al-folio defaults) */
+a,
+a:visited {
+  color: #00274C !important;
+}
+
+a:hover,
+a:focus {
+  color: #001A33 !important;
 }
