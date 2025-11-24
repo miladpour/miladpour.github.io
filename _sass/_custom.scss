@@ -53,18 +53,12 @@
   margin-bottom: 0.25rem !important;  
 }
 /* Fix active nav tab color */
-.navbar .nav-item .nav-link.active,
-.navbar .nav-item.active .nav-link,
-.navbar-nav .nav-link.active {
-  color: #0047AB !important;                 /* your active tab color */
-  border-bottom: 2px solid #0047AB !important;
-}
-
-/* Navbar tab hover color (when cursor is on a tab but not selected) */
 .navbar .nav-link:hover,
 .navbar .nav-item:hover > .nav-link,
 .navbar-nav .nav-link:hover {
-  color: #0047AB !important;                 /* your desired hover color */
-  border-bottom: 2px solid #0047AB !important;  /* optional underline on hover */
+  color: #0047AB !important;
+  border-bottom-color: transparent !important;
 }
+
+
 
