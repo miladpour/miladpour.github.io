@@ -1,2 +1,11 @@
 ---
 ---
+/* Reduce social icon size */
+.social-icons a {
+  font-size: 0.8rem;      /* smaller icons */
+}
+
+/* Optional: reduce spacing between icons */
+.social-icons li {
+  margin: 0 0.25rem !important;
+}
