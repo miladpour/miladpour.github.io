@@ -29,6 +29,6 @@ latest_posts:
 
 I am a PhD candidate in the Department of Electrical Engineering and Computer Science at the University of Michigan, fortunate to be advised by [Prof. Vladimir Dvorkin](https://web.eecs.umich.edu/~dvorkin/). 
 
-My primary research interests lie in Generative Models, Trustworthy Machine Learning (ML), and Information Theory. More specifically, my research focuses on AI/ML-driven decision-making, uncertainty quantification, data privacy, statistical inference, and related topics that connect foundational theory with the practical challenges of modern power and energy systems. To this end, I draw on ideas from diffusion models, differential privacy, conformal prediction, and sequential tests.
+My primary research interests lie in Generative Models, Trustworthy ML, and Information Theory. I focus on developing reliable data-driven decision-making methods with rigorous guarantees on uncertainty, robustness, and privacy. Methodologically, I use ideas from diffusion models, differential privacy, conformal prediction, and sequential inference. I am particularly interested in bridging foundational theory with practical challenges in modern power and energy systems.
 
 Feel free to email me if you come across any research interests we may have in common. I am always open to potential collaborations.
