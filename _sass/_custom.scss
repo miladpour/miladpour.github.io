@@ -8,3 +8,7 @@
 .contact-icons a {
   margin: 0 0.2rem !important;
 }
+/* Change global pink accent color */
+:root {
+  --global-theme-color: #00274C;   /* <-- pick your color */
+}
