@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='https://eecs.engin.umich.edu/'>Affiliations</a>. Address.
-subtitle: EECS PhD Candidate at the <a href='https://eecs.engin.umich.edu/'>University of Michigan</a>.
+subtitle: EECS Ph.D. Candidate at the <a href='https://eecs.engin.umich.edu/'>University of Michigan</a>.
 
 
 profile:
