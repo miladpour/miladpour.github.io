@@ -1,8 +1,8 @@
 /* Global theme color overrides */
 :root {
-  --global-theme-color: #00274C;
-  --link-color: #00274C;
-  --link-hover-color: #001A33;
+  --global-theme-color: #0047AB;
+  --link-color: #0047AB;
+  --link-hover-color: #0047AB;
 }
 
 /* Shrink social/contact icons */
@@ -17,19 +17,19 @@
 /* Force link colors (beats all al-folio defaults) */
 a,
 a:visited {
-  color: #00274C !important;
+  color: #0047AB !important;
 }
 
 a:hover,
 a:focus {
-  color: #001A33 !important;
+  color: #0047AB !important;
 }
 
 /* Reading progress bar color */
 #progress,
 .progress-bar,
 .reading-time-bar {
-  background-color: #00274C !important;
+  background-color: #0047AB !important;
 }
 
 #progress-container,
