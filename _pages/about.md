@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: <a href='https://eecs.engin.umich.edu/'>Affiliations</a>. Address.
+subtitle: EECS PhD Candidate at the <a href='https://eecs.engin.umich.edu/'>University of Michigan</a>.
+
 
 profile:
   align: right
