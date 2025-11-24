@@ -24,3 +24,15 @@ a:hover,
 a:focus {
   color: #001A33 !important;
 }
+
+/* Reading progress bar color */
+#progress,
+.progress-bar,
+.reading-time-bar {
+  background-color: #00274C !important;
+}
+
+#progress-container,
+.progress-container {
+  background-color: transparent !important;
+}
