@@ -33,7 +33,4 @@ I am a PhD candidate in the Department of Electrical Engineering and Computer Sc
 
 My primary research interests lie in Generative Models, Trustworthy Machine Learning, and Information Theory. More specifically, I work on diffusion models, uncertainty quantification, differential privacy, sequential inference, and related topics that connect foundational theory with the practical challenges of modern power and energy systems.
 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to email me if you come across any research interests we may have in common. I am always open to potential collaborations.
