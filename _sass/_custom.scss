@@ -1,4 +1,10 @@
 /* Shrink social/contact icons under profile */
+/* Override al-folio global colors */
+:root {
+  --global-theme-color: #00274C;      /* main accent color */
+  --link-color: #00274C;              /* normal link color */
+  --link-hover-color: #00274C;        /* hover color */
+}
 
 .contact-icons i {
   font-size: 0.8rem !important;   /* try 0.75rem or 0.7rem if you want smaller */
