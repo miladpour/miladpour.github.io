@@ -51,7 +51,7 @@
 .navbar-nav .nav-link.active,
 .navbar .nav-item.active > .nav-link {
   color: #0047AB !important;
-  border-bottom: 2px solid #0047AB !important;
+  border-bottom: transparent !important;
 }
 
 /* ============================================================
@@ -60,7 +60,7 @@
 #progress,
 .progress-bar,
 .reading-time-bar {
-  background-color: #0047AB !important;
+  background-color: #ffffff !important;
 }
 
 #progress-container,
