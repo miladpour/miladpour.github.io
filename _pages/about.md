@@ -30,7 +30,6 @@ latest_posts:
 ---
 
 I am a PhD candidate in the Department of Electrical Engineering and Computer Science at the University of Michigan, fortunate to be advised by [Prof. Vladimir Dvorkin](https://web.eecs.umich.edu/~dvorkin/). 
-#I received my B.Sc. and M.Sc. degrees in Electrical Engineering from Babol Noshirvani University of Technology and Tarbiat Modares #University, respectively.
 
 My primary research interests lie in Generative Models, Trustworthy Machine Learning, and Information Theory. More specifically, I work on diffusion models, uncertainty quantification, differential privacy, sequential inference, and related topics that connect foundational theory with the practical challenges of modern power and energy systems.
 
