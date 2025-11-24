@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    #<p>555 your office number</p>
+    #<p>123 your address street</p>
+    #<p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,7 +29,7 @@ latest_posts:
 
 I am a PhD candidate in the Department of Electrical Engineering and Computer Science at the University of Michigan, fortunate to be advised by [Prof. Vladimir Dvorkin](https://web.eecs.umich.edu/~dvorkin/). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from Babol Noshirvani University of Technology and Tarbiat Modares University, respectively.
 
-My main research interests lie in the areas of Generative Models, Trustworhty Machine Learning, and Information Theory. More specifically, I work on diffusion models, uncertainty quantification, differential privacy, sequential inference and related topics that bridge foundational theory with practical challenges in modern power systems.
+My primary research interests lie in Generative Models, Trustworthy Machine Learning, and Information Theory. More specifically, I work on diffusion models, uncertainty quantification, differential privacy, sequential inference, and related topics that connect foundational theory with the practical challenges of modern power and energy systems.
 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
