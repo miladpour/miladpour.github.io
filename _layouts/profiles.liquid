@@ -21,9 +21,6 @@ layout: page
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
         </div>
-        <!-- Social --> {% if page.social %}
-        <div class="social"> <div class="contact-icons">{% include social.liquid %}</div> 
-        <div class="contact-note">{{ site.contact_note }}</div> </div> {% endif %}
 
         <div class="clearfix">
           {% if profile.content %}
@@ -34,6 +31,15 @@ layout: page
           {% endif %}
         </div>
       {% endfor %}
+    {% endif %}
+
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">
+          {% include social.html %}
+        </div>
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
     {% endif %}
   </article>
 </div>
