@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdfs/CV_Milad_Hoseinpour.pdf", "_blank");
         },
       },{
         id: 'social-email',
