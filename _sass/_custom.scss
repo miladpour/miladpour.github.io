@@ -15,15 +15,16 @@
 }
 
 /* Force link colors (beats all al-folio defaults) */
-a,
-a:visited {
+.post a,
+.post a:visited {
   color: #0047AB !important;
 }
 
-a:hover,
-a:focus {
-  color: #0047AB !important;
+.post a:hover,
+.post a:focus {
+  color: #003680 !important;   /* darker hover */
 }
+
 
 /* Reading progress bar color */
 #progress,
