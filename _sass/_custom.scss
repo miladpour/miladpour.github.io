@@ -43,7 +43,7 @@
 .navbar-nav .nav-link:hover,
 .navbar .nav-item:hover > .nav-link {
   color: #0047AB !important;         /* your hover color */
-  border-bottom: 2px solid #0047AB !important;
+  border-bottom: transparent !important;
 }
 
 /* Navbar active (selected tab) */
