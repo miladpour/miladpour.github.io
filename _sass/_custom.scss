@@ -1,0 +1,18 @@
+/* Make social icons smaller and tighter */
+/* shrink the icon glyphs (Font Awesome / Academicons) */
+.social .contact-icons i,
+.social .contact-icons a i {
+  font-size: 0.75rem !important;  /* try 0.7, 0.65 if you want smaller */
+}
+
+/* reduce spacing between icons */
+.social .contact-icons li {
+  margin: 0 0.2rem !important;
+  padding: 0 !important;
+}
+
+/* optional: shrink the whole block a bit more */
+.social .contact-icons {
+  transform: scale(0.85);
+  transform-origin: top left;
+}
