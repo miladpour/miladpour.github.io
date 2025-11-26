@@ -26,8 +26,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-new-paper-constrained-diffusion-models-for-synthesizing-representative-power-flow-datasets-has-been-released-on-arxiv",
+          title: 'Our new paper Constrained Diffusion Models for Synthesizing Representative Power Flow Datasets has...',
           description: "",
           section: "News",},{id: "news-our-new-paper-diffopf-diffusion-solver-for-optimal-power-flow-has-been-released-on-arxiv",
           title: 'Our new paper DiffOPF: Diffusion Solver for Optimal Power Flow has been released...',
