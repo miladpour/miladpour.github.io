@@ -21,11 +21,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-our-paper-domain-constrained-diffusion-models-to-synthesize-tabular-data-a-case-study-in-power-systems-is-accepted-for-presentation-at-the-2025-icml-workshop-dataworld-unifying-data-curation-frameworks-across-domains-poster",
           title: 'Our paper Domain-constrained diffusion models to synthesize tabular data: A case study in...',
           description: "",
