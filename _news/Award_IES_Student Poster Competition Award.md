@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was honored to receive the *Student Poster Competition Award* at the *Institute for Energy Solutions’ 2025 Energy Symposium*. 
+I was honored to receive the *Student Poster Competition Award* at the [Institute for Energy Solutions](https://ies.engin.umich.edu/)’ *2025 Energy Symposium*. 
