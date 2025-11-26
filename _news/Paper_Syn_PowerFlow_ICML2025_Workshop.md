@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *Domain-constrained diffusion models to synthesize tabular data: A case study in power systems* is accepted for presentation at the 2025 ICML workshop DataWorld: Unifying Data Curation Frameworks Across Domains.
+Our paper [*Domain-constrained diffusion models to synthesize tabular data: A case study in power systems*](https://arxiv.org/abs/2506.11281v1) is accepted for presentation at the [2025 ICML workshop DataWorld: Unifying Data Curation Frameworks Across Domains](https://dataworldicml2025.github.io/index.html) ([Poster](https://web.eecs.umich.edu/~dvorkin/assets/pdf/ICML2025_Poster.pdf)).
