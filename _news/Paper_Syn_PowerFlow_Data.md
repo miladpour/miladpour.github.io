@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our new paper *Constrained Diffusion Models for Synthesizing Representative Power Flow Datasets* has been released on [arXiv](https://arxiv.org/abs/2506.11281)!
+Our new paper [*Constrained Diffusion Models for Synthesizing Representative Power Flow Datasets*](https://arxiv.org/abs/2506.11281) has been released on arXiv!
 
