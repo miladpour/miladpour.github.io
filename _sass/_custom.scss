@@ -130,7 +130,7 @@
 }
 /* Scrollable news section on About page */
 .news-scroll {
-  max-height: 230px;
+  max-height: 260px;
   overflow-y: auto;
   overflow-x: hidden;
   padding-right: 4px;
@@ -139,7 +139,7 @@
 /* Force this behavior on desktop too (in case other layout CSS interferes) */
 @media (min-width: 768px) {
   .page-about .news-scroll {
-    max-height: 230px !important;
+    max-height: 260px !important;
     overflow-y: auto !important;
     overflow-x: hidden !important;
   }
