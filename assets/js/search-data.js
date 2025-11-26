@@ -21,15 +21,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-new-paper-diffopf-diffusion-solver-for-optimal-power-flow-has-been-released-on-arxiv",
+            },},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
+          description: "",
+          section: "News",},{id: "news-our-new-paper-diffopf-diffusion-solver-for-optimal-power-flow-has-been-released-on-arxiv",
           title: 'Our new paper DiffOPF: Diffusion Solver for Optimal Power Flow has been released...',
           description: "",
           section: "News",},{id: "projects-project-1",
