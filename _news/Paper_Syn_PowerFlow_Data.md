@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our new paper *Constrained Diffusion Models for Synthesizing Representative Power Flow Datasets* has been released on arXiv!
+
