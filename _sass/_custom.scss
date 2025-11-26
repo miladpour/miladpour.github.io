@@ -128,23 +128,3 @@
     max-width: 100%;
   }
 }
-/* Make the announcements section scrollable when there are many items */
-.announcement-scrollable {
-  max-height: 220px;     /* adjust height as you wish */
-  overflow-y: auto !important;
-  padding-right: 5px;    /* space for scrollbar */
-}
-
-/* Optional: nicer scrollbar */
-.announcement-scrollable::-webkit-scrollbar {
-  width: 6px;
-}
-
-.announcement-scrollable::-webkit-scrollbar-thumb {
-  background-color: #c0c0c0;
-  border-radius: 3px;
-}
-
-.announcement-scrollable::-webkit-scrollbar-track {
-  background: transparent;
-}
