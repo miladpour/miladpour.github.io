@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I am honored to have been selected as a 2025 Fellow in the [Institute for Energy Solutions](https://ies.engin.umich.edu/)' PhD and Postdoctoral Fellowship Program.
+I am honored to have been selected as a 2026 Fellow in the [Institute for Energy Solutions](https://ies.engin.umich.edu/)' PhD and Postdoctoral Fellowship Program.
 
