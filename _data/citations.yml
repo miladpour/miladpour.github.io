@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-29'
+  last_updated: '2026-01-16'
 papers:
   tybBuNYAAAAJ:9yKSN-GCB0IC:
     citations: 1
@@ -54,6 +54,6 @@ papers:
     title: 'DiffOPF: Diffusion Solver for Optimal Power Flow'
     year: '2025'
   tybBuNYAAAAJ:zYLM7Y9cAGgC:
-    citations: 17
+    citations: 18
     title: 'Privacy-preserving and approximately truthful local electricity markets: A differentially private VCG mechanism'
     year: '2023'
