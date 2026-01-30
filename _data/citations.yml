@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-30'
 papers:
   tybBuNYAAAAJ:9yKSN-GCB0IC:
     citations: 1
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: 'Accuracy Amplification in Differentially Private Logistic Regression: A Pre-Training Approach.'
     year: '2023'
+  tybBuNYAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'Outage Identification from Electricity Market Data: Quickest Change Detection Approach'
+    year: '2026'
   tybBuNYAAAAJ:Tyk-4Ss8FVUC:
     citations: 7
     title: "Prosumers\u2019 cost recovery in peer-to-peer electricity markets"
