@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-20'
 papers:
   tybBuNYAAAAJ:9yKSN-GCB0IC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: 'Outage Identification from Electricity Market Data: Quickest Change Detection Approach'
     year: '2026'
   tybBuNYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 7
+    citations: 8
     title: "Prosumers\u2019 cost recovery in peer-to-peer electricity markets"
     year: '2024'
   tybBuNYAAAAJ:UeHWp8X0CEIC:
@@ -26,7 +26,7 @@ papers:
     title: 'Accuracy Improvement in Differentially Private Logistic Regression: A Pre-training Approach'
     year: '2023'
   tybBuNYAAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: 'Domain-Constrained Diffusion Models to Synthesize Tabular Data: A Case Study in Power Systems'
     year: '2025'
   tybBuNYAAAAJ:YsMSGLbcyi4C:
@@ -38,9 +38,9 @@ papers:
     title: Simultaneous optimisation of tie switches placement and reserve capacity margin of sub-transmission substations considering the conflict between short-term and long-term plannings
     year: '2017'
   tybBuNYAAAAJ:eQOLeE2rZwMC:
-    citations: 0
+    citations: 1
     title: 'Privacy by Design in Local Electricity Markets: A Differentially Private Market Mechanism'
-    year: Unknown Year
+    year: '2023'
   tybBuNYAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: 'Value-added electricity services: Role of microgrid services in distribution network planning'
