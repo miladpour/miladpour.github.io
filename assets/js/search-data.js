@@ -21,10 +21,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-constrained-diffusion-models-for-synthesizing-representative-power-flow-datasets-has-been-accepted-for-publication-in-ieee-transactions-on-power-systems",
-          title: 'Our paper “Constrained Diffusion Models for Synthesizing Representative Power Flow Datasets” has been...',
-          description: "",
-          section: "News",},{id: "news-i-was-honored-to-receive-the-student-poster-competition-award-at-the-institute-for-energy-solutions-2025-energy-symposium",
+            },},{id: "news-i-was-honored-to-receive-the-student-poster-competition-award-at-the-institute-for-energy-solutions-2025-energy-symposium",
           title: 'I was honored to receive the Student Poster Competition Award at the Institute...',
           description: "",
           section: "News",},{id: "news-our-paper-domain-constrained-diffusion-models-to-synthesize-tabular-data-a-case-study-in-power-systems-is-accepted-for-presentation-at-the-2025-icml-workshop-dataworld-unifying-data-curation-frameworks-across-domains-poster",
@@ -53,6 +50,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-diffopf-diffusion-solver-for-optimal-power-flow-has-been-accepted-to-the-power-systems-computation-conference-pscc-2026",
           title: 'Our paper DiffOPF: Diffusion Solver for Optimal Power Flow has been accepted to...',
+          description: "",
+          section: "News",},{id: "news-our-paper-constrained-diffusion-models-for-synthesizing-representative-power-flow-datasets-has-been-accepted-for-publication-in-ieee-transactions-on-power-systems",
+          title: 'Our paper “Constrained Diffusion Models for Synthesizing Representative Power Flow Datasets” has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
