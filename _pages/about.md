@@ -31,6 +31,6 @@ I am a Ph.D. candidate in the Department of Electrical Engineering and Computer 
 
 #### Research Interests
 
-My primary research interests lie in Generative Models, Trustworthy ML, and Information Theory. I focus on developing reliable data-driven decision-making methods with rigorous guarantees on uncertainty, robustness, and privacy. Methodologically, I use ideas from diffusion models, differential privacy, conformal prediction, and sequential inference. I am particularly interested in bridging foundational theory with practical challenges in modern power and energy systems.
+My research develops anytime-valid inference methods for real-time decision-making in safety-critical systems. I design sequential tests, e-processes, and confidence sequences that enable reliable detection, diagnosis, and certification, while maintaining rigorous statistical guarantees under continuous monitoring. My work is motivated by applications in power systems, where trustworthy statistical evidence is essential for reliable grid operation.
 
 Feel free to email me if you come across any research interests we may have in common. I am always open to potential collaborations.
