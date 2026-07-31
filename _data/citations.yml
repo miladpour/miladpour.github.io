@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-07-31'
 papers:
   tybBuNYAAAAJ:9yKSN-GCB0IC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: 'Outage Identification from Electricity Market Data: Quickest Change Detection Approach'
     year: '2026'
   tybBuNYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 9
+    citations: 10
     title: "Prosumers\u2019 cost recovery in peer-to-peer electricity markets"
     year: '2024'
   tybBuNYAAAAJ:UeHWp8X0CEIC:
@@ -55,9 +55,9 @@ papers:
     year: '2017'
   tybBuNYAAAAJ:ufrVoPGSRksC:
     citations: 1
-    title: 'DiffOPF: Diffusion Solver for Optimal Power Flow'
-    year: '2025'
+    title: 'DiffOPF: Diffusion solver for optimal power flow'
+    year: '2027'
   tybBuNYAAAAJ:zYLM7Y9cAGgC:
-    citations: 20
+    citations: 21
     title: 'Privacy-preserving and approximately truthful local electricity markets: A differentially private VCG mechanism'
     year: '2023'
