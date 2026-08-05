@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-05'
 papers:
   tybBuNYAAAAJ:9yKSN-GCB0IC:
     citations: 1
@@ -54,7 +54,7 @@ papers:
     title: Flexible scheduling of active distribution networks for market participation with considering DGs availability
     year: '2017'
   tybBuNYAAAAJ:ufrVoPGSRksC:
-    citations: 1
+    citations: 2
     title: 'DiffOPF: Diffusion solver for optimal power flow'
     year: '2027'
   tybBuNYAAAAJ:zYLM7Y9cAGgC:
